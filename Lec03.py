@@ -336,7 +336,7 @@ print(txt.format(age))
 #        >>>>>============================================================================================================================<<<<<
 #        >>>>>============================================================================================================================<<<<<
 
-#  Simple Progect with Str + List + If : APPLICATION (Welcome Username)
+#  Simple Project with Str + List + If : APPLICATION (Welcome Username)
 
 # email = input('Enter your Email pls:').lower().strip()
 # print(email)

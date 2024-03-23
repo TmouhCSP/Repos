@@ -14,7 +14,10 @@
 1- git status
 2- git add .
 3- git commit -m "add text name"
-4- git puch
+4- git remote add origin https://github.com/TmouhCSP/Repos.git
+5- git branch -M main
+6- git push -u origin main
+7- git puch
 
 <!-- Shortcuts For Python -->
 
